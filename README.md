@@ -21,7 +21,7 @@
 - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
 
 1. 高精度トランジット測光観測のためのディフューザー開発とオンスカイ試験  
-- 研究会名：第9回 可視赤外線観測装置技術ワークショップ(http://gopira.jp/instws/2020/)  
+- 研究会名：![第9回 可視赤外線観測装置技術ワークショップ](http://gopira.jp/instws/2020/)  
 - 日程: 2020.12.1-2020.12.2 
 - 資料：http://gopira.jp/instws/2020/Nishiumi.pdf
 1. Development of optical diffusers and the on-sky examination
