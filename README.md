@@ -25,12 +25,21 @@
 - 研究会名：[第9回 可視赤外線観測装置技術ワークショップ](http://gopira.jp/instws/2020/)  
 - 日程: 2020.12.1-2020.12.2 
 - 資料：http://gopira.jp/instws/2020/Nishiumi.pdf
+
+1. On-sky examination of optical diffusers installed in MuSCAT
+- [SPIE ASTRONOMICAL TELESCOPES + INSTRUMENTATION](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447.toc)
+- 2020.12.14-2020.12.18
+- 資料：https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/2561286/On-sky-examination-of-optical-diffusers-installed-in-MuSCAT/10.1117/12.2561286.short
+
 1. Development of optical diffusers and the on-sky examination
 - 学会名：JpGU
-- 日程：2021.5.30 - 2021.6.6
+- 日程：2021.5.30-2021.6.6
 
 
 
 ## プログラム経験・作成物
 
+## 海外渡航・生活経験
 
+## その他
+- ACT-X募集応募
