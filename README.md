@@ -8,8 +8,9 @@
  - 日程：2017.3  
 1. IRSF勉強会（2019.3）  
 1. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
-- 学会名：日本天文学会 2019年春季年会
+- 学会名：[日本天文学会 2019年春季年会](https://www.asj.or.jp/nenkai/archive/2019a/session-P3.html)
 - 日程：2019.3  
+- 資料：https://www.asj.or.jp/nenkai/archive/2019a/pdf/P308a.pdf
 1. MuSCAT2 1st Workshop（2019.10） 
 1. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
 - 学会名：日本天文学会 2020年春季年会
@@ -21,7 +22,7 @@
 - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
 
 1. 高精度トランジット測光観測のためのディフューザー開発とオンスカイ試験  
-- 研究会名：![第9回 可視赤外線観測装置技術ワークショップ](http://gopira.jp/instws/2020/)  
+- 研究会名：[第9回 可視赤外線観測装置技術ワークショップ](http://gopira.jp/instws/2020/)  
 - 日程: 2020.12.1-2020.12.2 
 - 資料：http://gopira.jp/instws/2020/Nishiumi.pdf
 1. Development of optical diffusers and the on-sky examination
