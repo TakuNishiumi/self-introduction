@@ -13,11 +13,11 @@
 - 資料：https://www.asj.or.jp/nenkai/archive/2019a/pdf/P308a.pdf
 1. MuSCAT2 1st Workshop（2019.10） 
 1. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
-- 学会名：日本天文学会 2020年春季年会
+- 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-P3.html)
 - 日程：2020.3.16-2020.3.19
 - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/P309b.pdf
 1. MuSCAT を用いたトランジット観測用ディフューザー性能試験観測
-- 学会名：日本天文学会 2020年春季年会
+- 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-V2.html)
 - 日程：2020.3.16-2020.3.19
 - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
 
