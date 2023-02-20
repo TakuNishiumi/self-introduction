@@ -3,22 +3,28 @@
 ### 関わった論文
 
 ### 学会/研究会発表歴
-1. ALMA望遠鏡を用いたオリオン座分子雲中の原始星(Class I 天体) 周囲の回転構造の研究  
+1. 原始星に付随するガスの降着・回転運動と星周円盤形成についての考察  
+   - セミナー名：国立天文台・総合研究大学院大学 サマーステューデントプログラム
+   - 日程：2016.8
+   - 紹介されたサイト：https://alma-telescope.jp/news/mt-post_683
+3. ALMA望遠鏡を用いたオリオン座分子雲中の原始星(Class I 天体) 周囲の回転構造の研究  
    - 学会名：日本天文学会 2017年春季年会  
    - 日程：2017.3  
-1. IRSF勉強会（2019.3）
-1. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
+4. （xxxx....）
+   - 研究会名：IRSF勉強会
+   - 日程：2019.3
+6. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
    - 学会名：[日本天文学会 2019年春季年会](https://www.asj.or.jp/nenkai/archive/2019a/session-P3.html)
    - 日程：2019.3  
    - 資料：https://www.asj.or.jp/nenkai/archive/2019a/pdf/P308a.pdf
-1. Analysis of GJ436b and Diffuser's test
+7. Analysis of GJ436b and Diffuser's test
    - 研究会名：The 1st MuSCAT2 Workshop　
    - 日程：2019.10.11-2019.10.12 
-1. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
+8. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
    - 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-P3.html)
    - 日程：2020.3.16-2020.3.19
    - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/P309b.pdf
-1. MuSCAT を用いたトランジット観測用ディフューザー性能試験観測
+9. MuSCAT を用いたトランジット観測用ディフューザー性能試験観測
    - 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-V2.html)
    - 日程：2020.3.16-2020.3.19
    - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
@@ -42,8 +48,9 @@
 ## プログラム経験・作成物
 
 ## 海外渡航・生活経験  
+
 2016年（大阪-シャルルドゴール（フランス）-サンティアゴ（チリ））
-- 
+- [国立天文台・総合研究大学院大学 サマーステューデントプログラム](https://alma-telescope.jp/news/mt-post_683)
 
 2018年（大阪-東京-マドリード(スペイン)-テネリフェ（スペイン）-ヒースロー（イギリス）-ケープタウン（南アフリカ）-ヒースロー（イギリス）-東京-大阪）
 - JL3002 9月 24日 (月) 大阪/伊丹発 東京/成田着
