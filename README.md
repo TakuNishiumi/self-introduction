@@ -6,19 +6,19 @@
 1. ALMA望遠鏡を用いたオリオン座分子雲中の原始星(Class I 天体) 周囲の回転構造の研究  
    - 学会名：日本天文学会 2017年春季年会  
    - 日程：2017.3  
-1. IRSF勉強会（2019.3）  
+1. IRSF勉強会（2019.3）
 1. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
    - 学会名：[日本天文学会 2019年春季年会](https://www.asj.or.jp/nenkai/archive/2019a/session-P3.html)
    - 日程：2019.3  
    - 資料：https://www.asj.or.jp/nenkai/archive/2019a/pdf/P308a.pdf
-1. (xxxxxxxx...)
+1. Analysis of GJ436b and Diffuser's test
    - 研究会名：The 1st MuSCAT2 Workshop　
    - 日程：2019.10.11-2019.10.12 
-3. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
+1. トランジット観測によるウォーム・ネプチューンGJ436bの大気調査
    - 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-P3.html)
    - 日程：2020.3.16-2020.3.19
    - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/P309b.pdf
-4. MuSCAT を用いたトランジット観測用ディフューザー性能試験観測
+1. MuSCAT を用いたトランジット観測用ディフューザー性能試験観測
    - 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-V2.html)
    - 日程：2020.3.16-2020.3.19
    - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
@@ -42,6 +42,13 @@
 ## プログラム経験・作成物
 
 ## 海外渡航・生活経験
+- JL3002 9月 24日 (月) 大阪/伊丹発 東京/成田着
+- JL7089 9月 24日 (月) 東京/成田発 マドリード着
+- JL6977 9月 24日 (月) マドリード発 テネリフェ/テネリフェ北着
+- IB3945 10月 29日 (月) テネリフェ/テネリフェ北発 マドリード着
+- BA459 10月 29日 (月) マドリード発 ロンドン/ヒースロー着
+- JL44 11月 23日 (金) ロンドン/ヒースロー発 東京/羽田着
+- JL139 11月 24日 (土) 東京/羽田発 大阪/伊丹着
 
 ## その他
 - ACT-X募集応募
