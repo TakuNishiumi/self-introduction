@@ -56,8 +56,9 @@
 ## 海外渡航・生活経験  
 2016年（大阪-シャルルドゴール（フランス）-サンティアゴ（チリ））
 - 国立天文台・総合研究大学院大学 サマーステューデントプログラム
-   - https://alma-telescope.jp/news/mt-post_683
-   - https://guas-astronomy.jp/weblog/?p=634
+   - [ALMA 記事「総研大サマースチューデントの受け入れ」](https://alma-telescope.jp/news/mt-post_683)
+   - [総研大ニューズレター第100号11ページ](https://www.soken.ac.jp/wordpress/wp-content/uploads/2013/12/2016101.pdf)
+   - [総研大ウェブブログ](https://guas-astronomy.jp/weblog/?p=634)
 
 2018年（大阪-東京-マドリード(スペイン)-テネリフェ（スペイン）-ヒースロー（イギリス）-ケープタウン（南アフリカ）-ヒースロー（イギリス）-東京-大阪）
 - JL3002 9月 24日 大阪/伊丹発 東京/成田着
