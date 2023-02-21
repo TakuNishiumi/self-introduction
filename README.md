@@ -3,9 +3,16 @@
 ### 関わった論文
 加筆中につき、しばらくお待ち下さい。
 
-### 学会/研究会等参加歴(発表なし)
+### 学会/研究会/講演等参加歴(発表なし)
 1. [第31回（2015）京都賞記念ワークショップ 惑星系形成メカニズムと第二の地球探査](https://www.kyotoprize.org/workshop/michel-mayor/)
    - 日程：2015.11.12
+
+1. [「一般相対性理論と天文学」宇宙物理学者：二間瀬 敏史氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+   - 日程：2015.12.12
+1. [「空に生命の証『水』を探して」Searching the Sky for Water as Evidence of Life　天文学・宇宙物理学者：エドウィン・ターナー氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+   - 日程：2016.1.23
+1. [「集中豪雨は予測できるか？－最先端気象レーダと大規模コンピュータを用いた予測研究の最前線－」気象学者：坪木 和久氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+   - 日程：2016.2.20
 1. [総研大・国立天文台　スプリングスクール２０１６](https://guas-astronomy.jp/weblog/?p=535)
    - 日程：2016.2.29-2016.3.3
 
