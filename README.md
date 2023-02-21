@@ -21,7 +21,7 @@
    - 日程：2019.3
 6. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
    - 学会名：[日本天文学会 2019年春季年会](https://www.asj.or.jp/nenkai/archive/2019a/session-P3.html)
-   - 日程：2019.3  
+   - 日程：2019.3.16-2019.3.17  
    - 資料：https://www.asj.or.jp/nenkai/archive/2019a/pdf/P308a.pdf
 7. Analysis of GJ436b and Diffuser's test
    - 研究会名：The 1st MuSCAT2 Workshop　
