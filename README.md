@@ -4,21 +4,24 @@
 加筆中につき、しばらくお待ち下さい。
 
 ### 学会/研究会/講演等参加歴(発表なし)
-1. [第31回（2015）京都賞記念ワークショップ 惑星系形成メカニズムと第二の地球探査](https://www.kyotoprize.org/workshop/michel-mayor/)
+1. [京都大学生存圏研究所信楽ＭＵ観測所 信楽MUレーダーご見学ツアー](https://www.rish.kyoto-u.ac.jp/mu/openhouse14/)
+   - 日程：2014.10.18
+3. [第31回（2015）京都賞記念ワークショップ 惑星系形成メカニズムと第二の地球探査](https://www.kyotoprize.org/workshop/michel-mayor/)
    - 日程：2015.11.12
-1. [「一般相対性理論と天文学」宇宙物理学者：二間瀬 敏史氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+4. [「一般相対性理論と天文学」宇宙物理学者：二間瀬 敏史氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
    - 日程：2015.12.12
-1. [「空に生命の証『水』を探して」Searching the Sky for Water as Evidence of Life　天文学・宇宙物理学者：エドウィン・ターナー氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+5. [「空に生命の証『水』を探して」Searching the Sky for Water as Evidence of Life　天文学・宇宙物理学者：エドウィン・ターナー氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
    - 日程：2016.1.23
-1. [「集中豪雨は予測できるか？－最先端気象レーダと大規模コンピュータを用いた予測研究の最前線－」気象学者：坪木 和久氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
+6. [「集中豪雨は予測できるか？－最先端気象レーダと大規模コンピュータを用いた予測研究の最前線－」気象学者：坪木 和久氏](https://www.kyoto-su.ac.jp/events/20151115_sc_kouen.html)
    - 日程：2016.2.20
-1. [総研大・国立天文台　スプリングスクール２０１６](https://guas-astronomy.jp/weblog/?p=535)
+7. [総研大・国立天文台　スプリングスクール２０１６](https://guas-astronomy.jp/weblog/?p=535)
    - 日程：2016.2.29-2016.3.3
-1. [2015年度第2回原子力施設見学会 関西地区施設見学会](https://jn-hrd-n.jaea.go.jp/material/activityreports/shisetsu2015_02.pdf)
+8. [2015年度第2回原子力施設見学会 関西地区施設見学会](https://jn-hrd-n.jaea.go.jp/material/activityreports/shisetsu2015_02.pdf)
    - 日程：2016.3.15
-1. [自然科学研究機構アストロバイオロジーセンター（ABC）国際ワークショップ](http://abc-nins.jp/workshop/2017ABC_hiroshima_WS.html)
+9. [自然科学研究機構アストロバイオロジーセンター（ABC）国際ワークショップ](http://abc-nins.jp/workshop/2017ABC_hiroshima_WS.html)
    - 日程：2017.3.21
-1. []()
+10. [2019天文学におけるデータ科学的方法](https://sites.google.com/view/astrodatascience2019)
+   - 日程：2019.5.27-2019.5.29
 
 ### 学会/研究会等発表歴（発表あり）
 1. 原始星に付随するガスの降着・回転運動と星周円盤形成についての考察  
