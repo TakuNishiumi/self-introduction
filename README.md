@@ -16,9 +16,9 @@
    - 学会名：[日本天文学会 2017年春季年会](https://www.asj.or.jp/nenkai/archive/2017a/session-P1.html)
    - 日程：2017.3.16-2017.3.18  
    - 資料：https://www.asj.or.jp/nenkai/archive/2017a/pdf/P130b.pdf
-4. （xxxx....）
+4. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
    - 研究会名：IRSF勉強会
-   - 日程：2019.3
+   - 日程：2019.3.6-2019.3.7
 6. IRSF/SIRIUS による TESS 惑星候補の発見確認観測 2: 観測成果  
    - 学会名：[日本天文学会 2019年春季年会](https://www.asj.or.jp/nenkai/archive/2019a/session-P3.html)
    - 日程：2019.3.16-2019.3.17  
