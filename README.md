@@ -81,8 +81,7 @@
 
 ## 関係機関/関係者等
 - [所属していた研究室のウェブサイト](https://naritalab.wixsite.com/narita-lab/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC)
-- [所属していたプロジェクト室のウェブサイト]
-(https://abc-nins.jp/storage/about/)
+- [所属していたプロジェクト室のウェブサイト](https://abc-nins.jp/storage/about/)
 
 ## その他
 - ACT-X募集応募経歴あり
