@@ -18,6 +18,8 @@
    - 日程：2016.2.29-2016.3.3
 8. [2015年度第2回原子力施設見学会 関西地区施設見学会](https://jn-hrd-n.jaea.go.jp/material/activityreports/shisetsu2015_02.pdf)
    - 日程：2016.3.15
+1. [集中講義 「太陽系外惑星の世界」 宇宙物理特論２](https://sy.rikkyo.ac.jp/timetable/slbssbdr.do?value%28risyunen%29=2016&value%28semekikn%29=1&value%28kougicd%29=LA106&value%28crclumcd%29=)
+   - 日程：2016.9.26-2016.9.29
 9. [自然科学研究機構アストロバイオロジーセンター（ABC）国際ワークショップ](http://abc-nins.jp/workshop/2017ABC_hiroshima_WS.html)
    - 日程：2017.3.21
 10. [2019天文学におけるデータ科学的方法](https://sites.google.com/view/astrodatascience2019)
