@@ -13,8 +13,9 @@
    - 日程：2016.8.31
    - 紹介されたサイト：https://alma-telescope.jp/news/mt-post_683
 3. ALMA望遠鏡を用いたオリオン座分子雲中の原始星(Class I 天体) 周囲の回転構造の研究  
-   - 学会名：日本天文学会 2017年春季年会  
-   - 日程：2017.3  
+   - 学会名：[日本天文学会 2017年春季年会](https://www.asj.or.jp/nenkai/archive/2017a/session-P1.html)
+   - 日程：2017.3.16-2017.3.18  
+   - 資料：https://www.asj.or.jp/nenkai/archive/2017a/pdf/P130b.pdf
 4. （xxxx....）
    - 研究会名：IRSF勉強会
    - 日程：2019.3
