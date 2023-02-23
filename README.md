@@ -111,9 +111,10 @@ https://arxiv.org/search/?query=Nishiumi&searchtype=all&abstracts=show&order=-an
       > JL7088 3月 3日 マドリード発 東京/成田着  
       > JL121 3月 4日 東京/羽田発 大阪/伊丹着  
 
-## 関係機関/関係者等
-- [所属していた研究室のウェブサイト](https://naritalab.wixsite.com/narita-lab/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC)
-- [所属していたプロジェクト室のウェブサイト](https://abc-nins.jp/storage/about/)
 
 ## その他
-- ACT-X募集応募経歴あり
+   - 関係機関/関係者等
+      - [所属していた研究室のウェブサイト](https://naritalab.wixsite.com/narita-lab/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC)
+      - [所属していたプロジェクト室のウェブサイト](https://abc-nins.jp/storage/about/)
+   - 募集履歴
+      - ACT-X
