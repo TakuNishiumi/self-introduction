@@ -5,7 +5,10 @@ Taku Nishiumi
 
 ## 研究活動
 ### 関わった論文
-https://arxiv.org/search/?query=Nishiumi&searchtype=all&abstracts=show&order=-announced_date_first&size=50
+- 主論文：
+   - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/2561286/On-sky-examination-of-optical-diffusers-installed-in-MuSCAT/10.1117/12.2561286.short
+- 共著論文
+   - https://arxiv.org/search/?query=Nishiumi&searchtype=all&abstracts=show&order=-announced_date_first&size=50
 
 ### 学会/研究会/講演等参加歴(発表なし)
 1. [京都大学生存圏研究所信楽ＭＵ観測所 信楽MUレーダーご見学ツアー](https://www.rish.kyoto-u.ac.jp/mu/openhouse14/)
