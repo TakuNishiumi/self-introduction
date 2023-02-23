@@ -27,11 +27,11 @@ Taku Nishiumi
    - 日程：2016.2.29-2016.3.3
 9. [2015年度第2回原子力施設見学会 関西地区施設見学会](https://jn-hrd-n.jaea.go.jp/material/activityreports/shisetsu2015_02.pdf)
    - 日程：2016.3.15
-10. [集中講義 「太陽系外惑星の世界」 宇宙物理特論２](https://sy.rikkyo.ac.jp/timetable/slbssbdr.do?value%28risyunen%29=2016&value%28semekikn%29=1&value%28kougicd%29=LA106&value%28crclumcd%29=)
+1. [集中講義 「太陽系外惑星の世界」 宇宙物理特論２](https://sy.rikkyo.ac.jp/timetable/slbssbdr.do?value%28risyunen%29=2016&value%28semekikn%29=1&value%28kougicd%29=LA106&value%28crclumcd%29=)
    - 日程：2016.9.26-2016.9.29
-11. [自然科学研究機構アストロバイオロジーセンター（ABC）国際ワークショップ](http://abc-nins.jp/workshop/2017ABC_hiroshima_WS.html)
+1. [自然科学研究機構アストロバイオロジーセンター（ABC）国際ワークショップ](http://abc-nins.jp/workshop/2017ABC_hiroshima_WS.html)
    - 日程：2017.3.21
-12. [2019天文学におけるデータ科学的方法](https://sites.google.com/view/astrodatascience2019)
+1. [2019天文学におけるデータ科学的方法](https://sites.google.com/view/astrodatascience2019)
    - 日程：2019.5.27-2019.5.29
 
 ### 学会/研究会等発表歴（発表あり）
@@ -61,17 +61,14 @@ Taku Nishiumi
    - 学会名：[日本天文学会 2020年春季年会](https://www.asj.or.jp/nenkai/archive/2020a/session-V2.html)
    - 日程：2020.3.16-2020.3.19
    - 資料：https://www.asj.or.jp/nenkai/archive/2020a/pdf/V219a.pdf
-
 1. 高精度トランジット測光観測のためのディフューザー開発とオンスカイ試験  
    - 研究会名：[第9回 可視赤外線観測装置技術ワークショップ](http://gopira.jp/instws/2020/)  
    - 日程: 2020.12.1-2020.12.2 
    - 資料：http://gopira.jp/instws/2020/Nishiumi.pdf
-
 1. On-sky examination of optical diffusers installed in MuSCAT
    - 学会名：[SPIE ASTRONOMICAL TELESCOPES + INSTRUMENTATION](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447.toc)
    - 日程：2020.12.14-2020.12.18
    - 資料：https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/2561286/On-sky-examination-of-optical-diffusers-installed-in-MuSCAT/10.1117/12.2561286.short
-
 1. Development of optical diffusers and the on-sky examination
    - 学会名：[日本地球惑星科学連合(JpGU)](https://confit.atlas.jp/guide/event/jpgu2021/top)
    - 日程：2021.5.30-2021.6.6
