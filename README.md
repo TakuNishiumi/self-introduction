@@ -135,8 +135,7 @@ Taku Nishiumi
       > JL7088 3月 3日 マドリード発 東京/成田着  
       > JL121 3月 4日 東京/羽田発 大阪/伊丹着  
 
-## 賞罰
-   - [京都物理グランプリ2011 1stステージ 実験の部（グループ）実験アイデア賞受賞 （高校２年次）](https://www.kyoto-be.ne.jp/koukyou/cms/?action=common_download_main&upload_id=2535)
+
    - 
 ## その他
    - 関係機関/関係者等
@@ -144,3 +143,6 @@ Taku Nishiumi
       - [所属していたプロジェクト室のウェブサイト](https://abc-nins.jp/storage/about/)
    - 募集履歴
       - ACT-X
+   - 過去の記録
+      - [京都物理グランプリ2011 1stステージ 実験の部（グループ）実験アイデア賞受賞 （高校２年次）](https://www.kyoto-be.ne.jp/koukyou/cms/?action=common_download_main&upload_id=2535)
+ 
