@@ -1,4 +1,4 @@
-# 自己紹介・経歴紹介 (self-introduction）
+# 自己紹介・経歴紹介 (self-introduction）と自分用の記録
 ## 名前
 Taku Nishiumi  
 西海　拓　（にしうみ　たく）  
@@ -102,13 +102,13 @@ Taku Nishiumi
 
 ## 海外渡航・生活経験  
 2016年
-- 国立天文台・総合研究大学院大学 サマーステューデントプログラム
-   - 旅程：京都ー東京（新幹線移動）--> 成田（千葉）-シャルルドゴール（フランス）-サンティアゴ（チリ）-シャルルドゴール（フランス）- 関西空港(大阪)
-      > AF0275 8月 9日 11:00 東京/成田発 16:25 PARIS CHARLES DE GAULLE着
-      > AF0406 8月 9日 23:30 PARIS CHARLES DE GAULLE発 8:00 SANTIAGO着
-      > AF0401 9月 6日 13:35 SANTIAGO発 8:20 PARIS CHARLES DE GAULLE着
-      > AF0292 9月 6日 13:45 PARIS CHARLES DE GAULLE発 8:30 関西空港着
-   - 日程：2016.8.9-2016.9.6
+- 国立天文台・総合研究大学院大学 サマーステューデントプログラム  
+   - 旅程：京都ー東京（新幹線移動）--> 成田（千葉）-シャルルドゴール（フランス）-サンティアゴ（チリ）-シャルルドゴール（フランス）- 関西空港(大阪)  
+      > AF0275 8月 9日 11:00 東京/成田発 16:25 PARIS CHARLES DE GAULLE着  
+      > AF0406 8月 9日 23:30 PARIS CHARLES DE GAULLE発 8:00 SANTIAGO着  
+      > AF0401 9月 6日 13:35 SANTIAGO発 8:20 PARIS CHARLES DE GAULLE着  
+      > AF0292 9月 6日 13:45 PARIS CHARLES DE GAULLE発 8:30 関西空港着  
+   - 日程：2016.8.9-2016.9.6  
    - 記事等
       - [ALMA 記事「総研大サマースチューデントの受け入れ」写真一枚目](https://alma-telescope.jp/news/mt-post_683)
       - [総研大ニューズレター第100号11ページ](https://www.soken.ac.jp/wordpress/wp-content/uploads/2013/12/2016101.pdf)
